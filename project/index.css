@@ -36,7 +36,9 @@ main {
     display: grid;
     grid-template: auto auto / 1fr 1fr;
     gap: 17px;
-    margin-bottom: 17px;
+    margin-bottom: 5vh;
+    font-size: 0.75rem;
+    
 }
 
 .form input {
@@ -45,6 +47,7 @@ main {
     border-radius: 5px;
     border: 1px solid #D5D4D8;
     text-indent: 5px;
+
 }
 
 .form button {
