@@ -37,8 +37,9 @@ main {
     grid-template: auto auto / 1fr 1fr;
     gap: 17px;
     margin-bottom: 15vh;
-    font-size: 3.25rem;
-    
+    font-size: 4.25rem;
+    font-weight: boldrr;    
+    height: 30vh;
 }
 
 .form input {
