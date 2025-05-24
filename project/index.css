@@ -38,8 +38,6 @@ main {
     gap: 17px;
     margin-bottom: 15vh;
     font-size: 3.25rem;
-    font-weight: bolder;
-    height: 30vh;
 }
 
 .form input {
