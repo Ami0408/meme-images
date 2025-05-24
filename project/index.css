@@ -36,8 +36,8 @@ main {
     display: grid;
     grid-template: auto auto / 1fr 1fr;
     gap: 17px;
-    margin-bottom: 5vh;
-    font-size: 0.75rem;
+    margin-bottom: 15vh;
+    font-size: 1.25rem;
     
 }
 
