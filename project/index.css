@@ -75,10 +75,7 @@ main {
     height: auto;
     border-radius: 3px;
 }
-img {
-  height: 70%;
-  wwidth: 85%;
-}
+
 .meme span {
     position: absolute;
     text-align: center;
